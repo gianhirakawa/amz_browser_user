@@ -1,0 +1,5 @@
+browser-use
+playwright
+openai
+langchain-openai
+python-dotenv
